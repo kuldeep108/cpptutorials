@@ -34,7 +34,7 @@ int main()
 {
   complex c1,c2,c3;
   c1.set_data(3,4);
-  c2.set_data(5,9);
+  c2.set_data(5,8);
   c3=c1.add(c2);
   c3.show_data();
 }
